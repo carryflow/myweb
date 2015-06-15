@@ -1,0 +1,17 @@
+{
+  "name": "myweb",
+  "version": "0.0.1",
+  "description": "paquetes del frontend para el proyecto myweb.",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "Carlos Enrique Canabal Rivera"
+  ],
+  "license": "MIT",
+  "homepage": "myweb.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}
